@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx miyabi)",
+      "Bash(npx miyabi --help:*)",
+      "Bash(npx miyabi install:*)",
+      "Bash(git init:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh api:*)"
+    ]
+  }
+}
