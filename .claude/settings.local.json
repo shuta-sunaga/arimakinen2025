@@ -8,7 +8,9 @@
       "Bash(gh repo create:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(gh api:*)"
+      "Bash(gh api:*)",
+      "Bash(gh issue create:*)",
+      "WebSearch"
     ]
   }
 }
